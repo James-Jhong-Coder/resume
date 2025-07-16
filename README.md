@@ -166,6 +166,10 @@
 - 技術分群分類（如：前端框架 / 狀態管理 / 部署 / 測試 / 其他）
 - 強項在前、弱項在後，搭配使用年限或程度（建議用「熟悉」/「熟練」等）
 
+- frontend: Vue3/2、Pinia、Vuex、Rxjs、Axios、GraphQL、async/await、vee-validate、form-parsing、tailwindCSS、RWD、TypeScript、Functional programming、Design pattern、
+- testing: playwrite、vitest
+- tool: vite、Git、Docker、
+
 ### 🔹 作品
 
 - 提供 1 ～ 3 個代表作品（GitHub Repo、Demo 網址）
