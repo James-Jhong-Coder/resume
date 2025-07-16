@@ -1,5 +1,79 @@
-# Vue 3 + TypeScript + Vite
+- 履歷是給誰看的 ?
+  -> 有在招募前端工程師、全端工程師的公司
+  他們想要什麼 ?
+  -> 以一個有工作經驗的工程師來說 1. 技術能力
+  -> 前端框架
+  _ Vue、React
+  -> 狀態管理工具
+  _ Pinia
+  _ Zustand
+  -> Api 串接
+  _ graphQL
+  _ Axios
+  -> 非同步狀態管理
+  _ rxjs
+  -> Routing 管理
+  _ Vue router
+  -> 表單驗證
+  _ vee-validate
+  -> design pattern
+  _ State pattern
+  -> 效能優化
+  _ tree shaking
+  _ code splitting
+  _ dynamic import
+  _ lazy loading
+  _ CSSNano
+  _ 載入指標
+  _ FCP/LCP
+  _ preload
+  _ CSS 效能優化
+  _ TBT
+  _ INP
+  _ CLS
+  _ virtual scroller
+  -> 排版
+  _ RWD
+  _ tailwindCSS
+  _ SCSS
+  _ flexbox
+  -> 部署
+  _ CI/CD
+  -> 測試
+  _ e2e testing
+  _ vitest
+  _ 強型別
+  _ TypeScript
+  _ 寫的精簡
+  _ functional programming
+  _ 容器技術 \* docker
+          2. 怎麼解決問題的
+              * 能不能解決公司目前的問題、能不能帶來收益、能不能提升團隊素質
+              * 如果以上都不行，那大概就不會請你來
+              * 履歷要呈現具體的成果與成就
+                  * 而不是單純的列出工作內容，或是陳述學習歷程
+  我喜歡怎麼樣的生活
+- 希望可以在家上班(遠端)
+- 每一天的日常工作
+  - 技術層面來說，希望公司是有技術支持的，有時候主管沒有技術支持，我在做事情的時候會比較卡手卡腳，因為他什麼都不懂，我自己本身要跟他解釋很多不符合 best practice 的事情
+- 下班之後是長什麼樣子
+  - 希望下班之後，我可以正常打排球、陪另一半去吃飯，也可以保有自己的生活，也希望可以享有自己的天倫之樂
+- 團隊組成與氛圍
+  - 不要讓自己是團隊裡面最資深的一份子，上面還是要有人可以問
+- 薪資待遇
+  - 月薪可以破 10 萬
+  - 希望可以有自己的房子，但是房子如果是在新北市會比較好一點，因為比較便宜
+- 公司規模
+  - 希望可以是比較大的公司，雖然彈性很重要，但是最好過的人比較多，不要是像 bobo 這種
+-
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+履歷簡述
+簡述：簡介專長與技能。
+經歷：做過什麼、有什麼成效或貢獻，有具體數字會更好。通常最值得好好探討的是前面提到的成果和成就。
+學歷：若經歷豐富，可以只寫最高學歷。通常有第一份工作經驗後，學歷就不太重要了。
+技能：擅長的技能或技術。
+作品：展現實力、喜愛的技術、專業度。
+自傳：表達人格特質。
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+檢視職涯歷程的優點，選擇 3 - 5 個重點來寫。
+利用這 3 - 5 個重點，為自己撰寫 3 句話作為履歷的簡述。
