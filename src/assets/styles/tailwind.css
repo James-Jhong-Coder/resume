@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-gray-100: #f4f4f4; /* 最淺 */
+  --color-gray-200: #a7a7a7;
+  --color-gray-300: #898989;
+  --color-gray-400: #4e4e4e;
+  --color-gray-500: #484848; /* 最深 */
+}

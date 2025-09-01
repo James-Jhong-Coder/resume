@@ -1,0 +1,9 @@
+@import './tailwind.css';
+
+html,
+body {
+  @apply w-full h-full;
+  @apply bg-gray-500;
+
+  font-size: 16px;
+}
