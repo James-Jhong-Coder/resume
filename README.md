@@ -1,3 +1,55 @@
+# 鍾佳峻 (James Jhong)
+
+**Senior Frontend Engineer**  
+專注於 Vue 生態，擅長大型系統前端架構與使用者體驗設計
+
+📧 james@example.com ｜ 🌐 [GitHub](https://github.com/James-Jhong-Coder) ｜ 💼 LinkedIn
+
+---
+
+## 🛠 Skills
+
+- **Frontend:** Vue 2/3, TypeScript, JavaScript (ES6+), Vite, Webpack
+- **State Management:** Pinia, Vuex
+- **UI / Styling:** TailwindCSS, SCSS, Responsive Design
+- **Testing:** Vitest, Cypress
+- **Build & Deployment:** Docker, GitHub Actions, Jenkins
+- **Others:** RxJS, RESTful API, Chrome Extensions
+
+---
+
+## 💼 Experience
+
+### 艾克森科技有限公司｜ Senior Frontend Engineer ｜ 2022/06 – Present
+
+- 主導 **Debit Card / KYC / Recharge Web App** 開發，採用 Vue 3 + Pinia，提升迭代效率 **30%**。
+- 建立 **CI/CD 流程 (Docker + GitHub Actions)**，釋出時間從 1 小時縮短至 **15 分鐘**。
+- 優化交易模組效能，將 **Lighthouse 分數由 70 提升至 95**。
+
+### 特雷維科技有限公司｜ Frontend Engineer ｜ 2019/09 – 2022/06
+
+- 開發企業管理系統，負責前端模組化與 UI 組件封裝，降低維護成本。
+- 與後端協作完成 RESTful API 串接，確保大型表單流程的正確性與穩定性。
+
+---
+
+## 🚀 Side Projects
+
+- **Flip Card 翻字卡**｜ Vue 3 + Pinia + IndexedDB，AI 單字推薦與測驗  
+  👉 [GitHub](https://github.com/James-Jhong-Coder/vocabulary-quiz)
+- **Fit Track 健身紀錄 App**｜ Vue 3 + Tailwind，健身數據紀錄與統計圖表  
+  👉 [GitHub](https://github.com/James-Jhong-Coder/fit-track)
+- **Chrome 書籤儀表板**｜ Vue 3 + Vite + Chrome API，高效書籤管理  
+  👉 [GitHub](https://github.com/James-Jhong-Coder?tab=repositories)
+
+---
+
+## 🎓 Education
+
+- 台北科技大學｜資訊工程學系｜ 2009 – 2013
+
+---
+
 # 履歷撰寫規劃指南
 
 ## 🎯 履歷是給誰看的？
@@ -143,8 +195,8 @@
 - 加上你的個人特質與工作習慣（例如：重視溝通、喜歡團隊協作）
 
 - 我是一名前端工程師，擅長使用 Vue 3、TypeScript 與 Pinia 進行模組化開發與效能優化。
-具備獨立解決技術問題的能力，能處理複雜表單驗證、非同步流程與頁面載入優化。
-重視團隊合作與開發流程規劃，喜歡交流、記錄與持續改善現有系統品質。
+  具備獨立解決技術問題的能力，能處理複雜表單驗證、非同步流程與頁面載入優化。
+  重視團隊合作與開發流程規劃，喜歡交流、記錄與持續改善現有系統品質。
 
 ### 🔹 經歷
 
