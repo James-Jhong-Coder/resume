@@ -12,6 +12,8 @@ declare module 'vue' {
     Education: typeof import('./src/components/Education.vue')['default']
     Hello: typeof import('./src/components/Hello.vue')['default']
     Profile: typeof import('./src/components/Profile.vue')['default']
+    SideProject: typeof import('./src/components/SideProject.vue')['default']
+    Skills: typeof import('./src/components/Skills.vue')['default']
     SvgIcon: typeof import('./src/components/SvgIcon.vue')['default']
     WorkExperience: typeof import('./src/components/WorkExperience.vue')['default']
   }

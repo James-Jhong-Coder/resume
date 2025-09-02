@@ -2,9 +2,16 @@
   <div class="section">
     <span class="text-2xl text-gray-400">工作經驗</span>
     <div class="timeline mt-4">
-      <div class="timeline-item">第一份工作</div>
-      <div class="timeline-item mt-4">第二份工作</div>
-      <div class="timeline-item mt-4">第三份工作</div>
+      <div class="timeline-item">
+        <span>艾克森科技有限公司(在職中)</span>
+        <span>Frontend Engineer</span>
+        <span>2022/06 ~ 現在</span>
+      </div>
+      <div class="timeline-item mt-4">
+        <span>特雷維科技有限公司</span>
+        <span>Frontend Engineer</span>
+        <span>2019/09 – 2022/06</span>
+      </div>
     </div>
   </div>
 </template>

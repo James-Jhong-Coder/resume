@@ -10,21 +10,10 @@
       </div>
       <div class="resume-right">
         <WorkExperience />
-        <!-- <span>工作經歷</span>
-        <div class="flex flex-col">
-          <div class="flex items-center">
-            <span>艾克森科技有限公司(在職中)</span>
-            <span>Frontend Engineer</span>
-          </div>
-          <span>2022/06 ~ 現在</span>
-          <div>貢獻</div>
-          <div class="flex items-center">
-            <span>特雷維科技有限公司</span>
-            <span>Frontend Engineer</span>
-          </div>
-          <span>2019/09 – 2022/06</span>
-          <div>貢獻</div>
-        </div> -->
+        <Divider class="my-4" />
+        <Skills />
+        <Divider class="my-4" />
+        <SideProject />
       </div>
     </div>
   </div>
@@ -38,8 +27,8 @@
     padding: 10mm 0;
   }
   .resume {
-    width: 210mm; /* A4 寬 */
-    height: 297mm; /* A4 高 */
+    width: 29.7cm;
+    height: 21cm;
     margin: 0 auto;
     @apply bg-white;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
